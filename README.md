@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, I am Somya Anand.
 
 <!--
 **Somya1041/Somya1041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
