@@ -1,6 +1,7 @@
 -  👋 Hi there, I'm Somya Anand.
--  📫 How to reach me : [Mail](onlyskr1710@gmail.com)
 -  😄 Pronouns : He / Him
+-  👀 Interested in 
+-  📫 How to reach me : [Mail](onlyskr1710@gmail.com)
 <!--
 **Somya1041/Somya1041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👀 Interested in 
