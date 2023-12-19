@@ -1,6 +1,6 @@
 -  👋 Hi there, I'm Somya Anand.
--  👀 Interested in <b>OpenSource</b>.
--  🌱 Currently learning <b>DSA in C++</b> and 
+-  👀 Interested in <b>OpenSource</b> and Linux-stuff.
+-  🌱 Currently learning <b>DSA in C++</b>. 
 -  📫 How to reach me : [Mail](onlyskr1710@gmail.com)
 <!--
 **Somya1041/Somya1041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
