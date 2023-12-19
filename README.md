@@ -1,5 +1,5 @@
 -  👋 Hi there, I'm Somya Anand.
--  👀 Interested in <b>OpenSource</b> and Linux-stuff.
+-  👀 Interested in <b>OpenSource</b> and <b>Linux-stuff</b>.
 -  🌱 Currently learning <b>DSA in C++</b>. 
 -  📫 How to reach me : [Mail](onlyskr1710@gmail.com)
 <!--
